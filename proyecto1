@@ -1,3 +1,5 @@
 function sumar (primero, segundo){
     return primero + segundo;
 }
+console.log("soy franco")
+system.out.printin("soy franco")
